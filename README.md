@@ -32,7 +32,7 @@ This repository is a part of CSI-248 at Renton Technical College.
 2. Name the project `my-first-app`
 3. Run `cd my-first-app`
 4. You are now in the root project of the folder. Notice that there are some files that look familiar such as package.json and App.js
-5. Run `npx expo install react-dom react-native-web @expo/webpack-config` to enable react-native for web
+5. Run `npx expo install react-native-web react-dom @expo/metro-runtime` to enable react-native for web
 6. Run `npx expo start` to launch the project. You will see a QR Code in the terminal.
 7. Type `w` to launch the app in a web browser. You should now see your app running in your default browser.
 
